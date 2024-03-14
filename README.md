@@ -17,8 +17,7 @@ Qué cosas necesitas para instalar el software:
 
 Sigue estos pasos para ejecutar el proyecto:
 
-1. Clona este repositorio:
-   ´git clone https://github.com/shgonzals/qr-gen-android´
+1. Clona este repositorio: `git clone https://github.com/shgonzals/qr-gen-android` 
 2. Abre el proyecto en Android Studio:
 - Ve a `File` > `Open...` y selecciona la carpeta del proyecto clonado.
 3. Deja que Android Studio resuelva las dependencias automáticamente.
